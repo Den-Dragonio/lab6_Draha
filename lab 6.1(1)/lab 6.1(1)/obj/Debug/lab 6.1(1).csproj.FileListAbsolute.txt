@@ -1,0 +1,7 @@
+D:\PROJECTS\Visual studio back-end\Лабораторна 6\курс 2 лаб 6\lab 6.1(1)\lab 6.1(1)\bin\Debug\lab 6.1(1).exe.config
+D:\PROJECTS\Visual studio back-end\Лабораторна 6\курс 2 лаб 6\lab 6.1(1)\lab 6.1(1)\bin\Debug\lab 6.1(1).exe
+D:\PROJECTS\Visual studio back-end\Лабораторна 6\курс 2 лаб 6\lab 6.1(1)\lab 6.1(1)\bin\Debug\lab 6.1(1).pdb
+D:\PROJECTS\Visual studio back-end\Лабораторна 6\курс 2 лаб 6\lab 6.1(1)\lab 6.1(1)\obj\Debug\lab 6.1(1).csproj.AssemblyReference.cache
+D:\PROJECTS\Visual studio back-end\Лабораторна 6\курс 2 лаб 6\lab 6.1(1)\lab 6.1(1)\obj\Debug\lab 6.1(1).csproj.CoreCompileInputs.cache
+D:\PROJECTS\Visual studio back-end\Лабораторна 6\курс 2 лаб 6\lab 6.1(1)\lab 6.1(1)\obj\Debug\lab 6.1(1).exe
+D:\PROJECTS\Visual studio back-end\Лабораторна 6\курс 2 лаб 6\lab 6.1(1)\lab 6.1(1)\obj\Debug\lab 6.1(1).pdb
